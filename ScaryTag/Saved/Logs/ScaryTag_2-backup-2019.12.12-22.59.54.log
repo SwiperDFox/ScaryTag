@@ -1,0 +1,1773 @@
+﻿Log file open, 12/12/19 17:37:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ScaryTag
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.109199
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=DaemonR -epicuserid=6b43ec41a33f44b48f9327bfe01316b5 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.12-22.37.30:065][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.12-22.37.30:065][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.12-22.37.30:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/Config/Windows/Engine.ini]
+[2019.12.12-22.37.30:065][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.12-22.37.30:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/Config/Windows/Engine.ini]
+[2019.12.12-22.37.30:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/Config/Windows/Engine.ini]
+[2019.12.12-22.37.30:065][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.12-22.37.30:065][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.12-22.37.30:065][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.12-22.37.30:065][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.12-22.37.30:065][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.12-22.37.30:065][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.12-22.37.30:065][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.12-22.37.30:065][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.12-22.37.30:065][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.12-22.37.30:065][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.12-22.37.30:065][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.12-22.37.30:065][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.12-22.37.30:065][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.12-22.37.30:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/Config/Windows/Engine.ini]
+[2019.12.12-22.37.30:066][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.12-22.37.30:066][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.12-22.37.30:066][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.12-22.37.30:066][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.12-22.37.30:066][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.12-22.37.30:066][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.12-22.37.30:066][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.12-22.37.30:066][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.12-22.37.30:066][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.12-22.37.30:066][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.12-22.37.30:066][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.12-22.37.30:066][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.12-22.37.30:066][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.12-22.37.30:066][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/Config/Windows/Engine.ini]
+[2019.12.12-22.37.30:066][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/Config/Windows/Engine.ini]
+[2019.12.12-22.37.30:073][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.12-22.37.30:073][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.12-22.37.30:074][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.12-22.37.30:074][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.12-22.37.30:074][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.12-22.37.30:077][  0]LogHAL: Display: Platform has ~ 32 GB [34194128896 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.12-22.37.30:077][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.12-22.37.30:078][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-22.37.30:078][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.12-22.37.30:078][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.12-22.37.30:078][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-22.37.30:078][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.12-22.37.30:078][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-22.37.30:078][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.12-22.37.30:078][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.12-22.37.30:078][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.12-22.37.30:078][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.12-22.37.30:078][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.12-22.37.30:078][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.12-22.37.30:078][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.12-22.37.30:078][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.12-22.37.30:078][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.12-22.37.30:078][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.12-22.37.30:078][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.12-22.37.30:078][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.12-22.37.30:078][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.12-22.37.30:078][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.12-22.37.30:078][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.12-22.37.30:078][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.12-22.37.30:078][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.12-22.37.30:078][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.12-22.37.30:078][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-22.37.30:078][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.12-22.37.30:078][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.12-22.37.30:078][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.12-22.37.30:078][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.12-22.37.30:079][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.12-22.37.30:080][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.12-22.37.30:080][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.12-22.37.30:080][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.12-22.37.30:080][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.12-22.37.30:080][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.12-22.37.30:080][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.12-22.37.30:080][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.12-22.37.30:080][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.12-22.37.30:080][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.12-22.37.30:080][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-22.37.30:080][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.12-22.37.30:080][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.12-22.37.30:080][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.12-22.37.30:081][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.12-22.37.30:081][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.12-22.37.30:081][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/Config/Windows/Engine.ini]
+[2019.12.12-22.37.30:081][  0]LogInit: Computer: MSI
+[2019.12.12-22.37.30:081][  0]LogInit: User: Raphael
+[2019.12.12-22.37.30:081][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.12.12-22.37.30:081][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.12-22.37.30:081][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2019.12.12-22.37.30:081][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.12-22.37.30:081][  0]LogMemory: Process Physical Memory: 100.63 MB used, 100.63 MB peak
+[2019.12.12-22.37.30:081][  0]LogMemory: Process Virtual Memory: 89.40 MB used, 89.40 MB peak
+[2019.12.12-22.37.30:081][  0]LogMemory: Physical Memory: 9895.38 MB used,  22714.69 MB free, 32610.06 MB total
+[2019.12.12-22.37.30:081][  0]LogMemory: Virtual Memory: 4689.38 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2019.12.12-22.37.30:085][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.12-22.37.30:121][  0]LogInit: Using OS detected language (en-US).
+[2019.12.12-22.37.30:121][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.12-22.37.30:122][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.12-22.37.30:380][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.12-22.37.30:450][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.12-22.37.30:450][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.12-22.37.30:724][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.12-22.37.30:724][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.12-22.37.30:823][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2019.12.12-22.37.30:823][  0]LogD3D11RHI:       5980/0/16305 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.12.12-22.37.30:851][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.12.12-22.37.30:851][  0]LogD3D11RHI:       128/0/16305 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.12.12-22.37.30:856][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.12-22.37.30:856][  0]LogD3D11RHI:       0/0/16305 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.12-22.37.30:856][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.12-22.37.30:899][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.12-22.37.30:900][  0]LogD3D11RHI:     GPU DeviceId: 0x1f11 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.12-22.37.30:900][  0]LogWindows: EnumDisplayDevices:
+[2019.12.12-22.37.30:900][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.12.12-22.37.30:900][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2019.12.12-22.37.30:900][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.12-22.37.30:901][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.12.12-22.37.30:901][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.12.12-22.37.30:901][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.12.12-22.37.30:902][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.12.12-22.37.30:902][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.12.12-22.37.30:902][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2019.12.12-22.37.30:902][  0]LogD3D11RHI:   Driver Version: 417.77 (internal:25.21.14.1777, unified:417.77)
+[2019.12.12-22.37.30:902][  0]LogD3D11RHI:      Driver Date: 1-17-2019
+[2019.12.12-22.37.30:902][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2019.12.12-22.37.30:980][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.12-22.37.30:997][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.12.12-22.37.31:497][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.12-22.37.31:513][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.12-22.37.31:528][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.12-22.37.31:543][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.12-22.37.31:557][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.12-22.37.31:572][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.12-22.37.31:585][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.12-22.37.31:601][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.12-22.37.31:609][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.12-22.37.31:664][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.12-22.37.31:664][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.12-22.37.31:664][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.12-22.37.31:664][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.12-22.37.31:664][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.12-22.37.31:664][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.12-22.37.31:664][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.12-22.37.31:664][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.12-22.37.31:664][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.12-22.37.31:664][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.12-22.37.31:664][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.12-22.37.31:664][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.12-22.37.31:664][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.12-22.37.31:664][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.12-22.37.31:664][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.12-22.37.31:664][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.12-22.37.31:664][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.12-22.37.31:664][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.12-22.37.31:666][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.12-22.37.31:693][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.12-22.37.31:693][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.12-22.37.31:714][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.12-22.37.31:714][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.12-22.37.31:726][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.12-22.37.31:737][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.12-22.37.31:746][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.12-22.37.31:759][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.12-22.37.31:792][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.12-22.37.31:792][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.12-22.37.31:792][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.12-22.37.31:806][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.12-22.37.31:893][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Intermediate/Shaders/WorkingDirectory/5348/).
+[2019.12.12-22.37.31:894][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Raphael/AppData/Local/Temp/UnrealShaderWorkingDir/C9187CFE474162A4EF590BA6649A6809/'.
+[2019.12.12-22.37.31:897][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.12-22.37.31:897][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.12-22.37.31:897][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.12-22.37.32:713][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.12-22.37.32:774][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/Raphael/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.12-22.37.32:774][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Raphael/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.12-22.37.32:774][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.12-22.37.32:774][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.12-22.37.32:774][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.12-22.37.32:774][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.12-22.37.32:788][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.12-22.37.32:788][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.12-22.37.32:788][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.12-22.37.32:789][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Raphael/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.12-22.37.32:789][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.12-22.37.32:789][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.12-22.37.32:822][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.12-22.37.32:825][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.12-22.37.32:826][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.12-22.37.32:884][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2019.12.12-22.37.33:267][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.12-22.37.33:472][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.12-22.37.33:472][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.12-22.37.33:472][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.12-22.37.33:472][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.12-22.37.33:472][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.12-22.37.33:484][  0]LogNetVersion: ScaryTag 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1429931664)
+[2019.12.12-22.37.34:001][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.064324 seconds
+[2019.12.12-22.37.34:010][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.12-22.37.34:010][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.12-22.37.34:010][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.12-22.37.35:022][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.12-22.37.35:026][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.12-22.37.35:094][  0]SourceControl: Source control is disabled
+[2019.12.12-22.37.35:094][  0]SourceControl: Source control is disabled
+[2019.12.12-22.37.35:096][  0]SourceControl: Source control is disabled
+[2019.12.12-22.37.35:097][  0]SourceControl: Source control is disabled
+[2019.12.12-22.37.35:202][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.12-22.37.35:407][  0]LogOcInput: OculusInput pre-init called
+[2019.12.12-22.37.35:415][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.12-22.37.35:415][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.12-22.37.35:508][  0]LogEngine: Initializing Engine...
+[2019.12.12-22.37.35:510][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.12-22.37.35:511][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.12-22.37.35:813][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.12-22.37.35:836][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.12-22.37.35:874][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-22.37.35:948][  0]LogInit: FAudioDevice initialized.
+[2019.12.12-22.37.35:949][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.12-22.37.36:012][  0]LogDerivedDataCache: Saved boot cache 0.06s 73MB C:/Users/Raphael/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.12-22.37.36:017][  0]LogInit: Texture streaming: Enabled
+[2019.12.12-22.37.36:045][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.12-22.37.36:045][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.12-22.37.36:046][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.12-22.37.36:115][  0]LogInit: Transaction tracking system initialized
+[2019.12.12-22.37.36:157][  0]BlueprintLog: New page: Editor Load
+[2019.12.12-22.37.36:278][  0]LocalizationService: Localization service is disabled
+[2019.12.12-22.37.36:616][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Raphael/Documents/Unreal Projects/ScaryTag/Content/' took 0.00s
+[2019.12.12-22.37.36:616][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.12-22.37.36:616][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.12-22.37.36:849][  0]SourceControl: Source control is disabled
+[2019.12.12-22.37.36:849][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.12-22.37.36:850][  0]LightingResults: New page: Lighting Build
+[2019.12.12-22.37.36:853][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-22.37.36:854][  0]MapCheck: New page: Map Check
+[2019.12.12-22.37.36:854][  0]LightingResults: New page: Lighting Build
+[2019.12.12-22.37.36:887][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.12.12-22.37.37:167][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.12-22.37.37:176][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.12-22.37.37:214][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.12.12-22.37.37:214][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.12-22.37.37:214][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.211ms to complete.
+[2019.12.12-22.37.37:214][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.365
+[2019.12.12-22.37.37:328][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-22.37.37:335][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-22.37.37:343][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-22.37.37:352][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-22.37.37:359][  0]LogCollectionManager: Loaded 0 collections in 0.002403 seconds
+[2019.12.12-22.37.37:365][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/Collections/' took 0.00s
+[2019.12.12-22.37.37:365][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Raphael/Documents/Unreal Projects/ScaryTag/Content/Developers/Raphael/Collections/' took 0.00s
+[2019.12.12-22.37.37:365][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Raphael/Documents/Unreal Projects/ScaryTag/Content/Collections/' took 0.00s
+[2019.12.12-22.37.37:365][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.12.12-22.37.37:375][  0]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2863 classes and 680 folders.
+[2019.12.12-22.37.37:385][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.12-22.37.37:434][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.12-22.37.37:444][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.12.12-22.37.37:492][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.12-22.37.37:495][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.12-22.37.37:505][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.12-22.37.37:590][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.12.12-22.37.37:844][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.12-22.37.37:844][  0]LogLoad: (Engine Initialization) Total time: 9.30 seconds
+[2019.12.12-22.37.37:844][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.12-22.37.37:903][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.12-22.37.37:925][  0]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.12-22.37.37:958][  1]LogAssetRegistry: Asset discovery search completed in 5.0755 seconds
+[2019.12.12-22.37.37:963][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000007 seconds (found 0 objects)
+[2019.12.12-22.37.37:963][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000079 seconds (updated 0 objects)
+[2019.12.12-22.37.38:896][ 85]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.12-22.37.46:336][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-22.37.47:623][438]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/NewBlueprint.NewBlueprint
+[2019.12.12-22.37.47:950][438]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 121 classes and 0 folders.
+[2019.12.12-22.37.52:057][724]LogSlate: Window 'NewBlueprint' being destroyed
+[2019.12.12-22.37.52:080][724]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-22.37.52:157][724]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/NewBlueprint.NewBlueprint
+[2019.12.12-22.37.52:618][724]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.12-22.37.57:701][127]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.12-22.38.33:073][813]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:074][813]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:087][814]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:087][814]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:088][814]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:098][815]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:099][815]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:099][815]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:109][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:109][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:109][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:120][817]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:120][817]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:120][817]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:129][818]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:129][818]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:129][818]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:139][819]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:139][819]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:139][819]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:151][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:151][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:534][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:535][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:545][855]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:545][855]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:546][855]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:558][856]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:559][856]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:559][856]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:570][857]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:570][857]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:570][857]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:581][858]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:582][858]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:582][858]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:593][859]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:593][859]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:594][859]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:606][860]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:607][860]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:607][860]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:617][861]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:617][861]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:617][861]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:626][862]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:626][862]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:626][862]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:637][863]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:637][863]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:637][863]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:647][864]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:648][864]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:648][864]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:656][865]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:657][865]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:657][865]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:666][866]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:666][866]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:666][866]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:677][867]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:677][867]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:678][867]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:687][868]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:688][868]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:688][868]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:697][869]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:697][869]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:697][869]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:707][870]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:707][870]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:707][870]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:717][871]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:717][871]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:717][871]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:728][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:728][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:728][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:739][873]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:739][873]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:739][873]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:749][874]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:750][874]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:750][874]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:759][875]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:759][875]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:759][875]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:771][876]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:771][876]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:771][876]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:781][877]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:781][877]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:781][877]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:791][878]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:791][878]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:791][878]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:801][879]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:802][879]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:802][879]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:811][880]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:811][880]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:811][880]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:821][881]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:822][881]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:822][881]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:831][882]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.33:831][882]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_2:PersistentLevel.NewBlueprint_C_0.rre' 
+[2019.12.12-22.38.39:954][464]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.12-22.38.47:379][640]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.12-22.38.53:965][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-22.38.58:764][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-22.39.16:681][437]LogAssetEditorManager: Opening Asset editor for Material /Game/Game/Material/MinorPickup_Diffuse_Mat.MinorPickup_Diffuse_Mat
+[2019.12.12-22.39.16:684][437]LogMaterial: Display: Missing cached shader map for material MinorPickup_Diffuse_Mat, compiling. 
+[2019.12.12-22.39.17:054][437]LogMaterial: Display: Missing cached shader map for material MinorPickup_Diffuse_Mat, compiling. 
+[2019.12.12-22.39.17:078][437]LogMaterial: Display: Missing cached shader map for material MinorPickup_Diffuse_Mat, compiling. 
+[2019.12.12-22.39.17:108][437]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2019.12.12-22.39.17:108][437]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2019.12.12-22.39.17:108][437]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2019.12.12-22.39.17:108][437]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2019.12.12-22.39.17:108][437]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2019.12.12-22.39.17:108][437]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2019.12.12-22.39.17:108][437]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2019.12.12-22.39.17:108][437]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2019.12.12-22.39.17:108][437]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.12.12-22.39.17:122][437]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.12.12-22.39.18:117][479]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 21
+[2019.12.12-22.39.18:142][480]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2019.12.12-22.39.18:180][482]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2019.12.12-22.39.18:298][488]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2019.12.12-22.39.18:319][489]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2019.12.12-22.39.18:427][494]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2019.12.12-22.39.18:448][495]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2019.12.12-22.39.18:640][505]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2019.12.12-22.39.18:808][514]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2019.12.12-22.39.19:033][525]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2019.12.12-22.39.19:293][538]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2019.12.12-22.39.19:504][549]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2019.12.12-22.39.19:637][555]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2019.12.12-22.39.19:674][557]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2019.12.12-22.39.19:875][568]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2019.12.12-22.39.20:081][578]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2019.12.12-22.39.20:176][583]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2019.12.12-22.39.20:333][591]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2019.12.12-22.39.20:351][592]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2019.12.12-22.39.20:436][596]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2019.12.12-22.39.20:542][602]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2019.12.12-22.39.20:716][611]MaterialEditorStats: Base pass shader: 122 instructions
+[2019.12.12-22.39.20:716][611]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.12.12-22.39.20:716][611]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.12-22.39.20:716][611]MaterialEditorStats: Texture samplers: 5/16
+[2019.12.12-22.39.20:716][611]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.12.12-22.39.20:716][611]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.12-22.39.22:460][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-22.39.36:630][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.12-22.39.37:765][335]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.12.12-22.39.40:013][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-22.40.05:044][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-22.40.13:211][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-22.43.54:992][814]BlueprintLog: New page: Compile NewBlueprint
+[2019.12.12-22.43.55:363][814]LogUObjectHash: Compacting FUObjectHashTables data took   7.16ms
+[2019.12.12-22.44.05:533][898]BlueprintLog: New page: Compile NewBlueprint
+[2019.12.12-22.44.05:842][898]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2019.12.12-22.44.06:345][928]BlueprintLog: New page: Compile NewBlueprint
+[2019.12.12-22.44.06:653][928]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2019.12.12-22.44.30:024][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-22.44.30:107][ 98]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-22.44.30:127][ 98]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.12-22.44.30:128][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-22.44.30:128][ 98]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 12, 2019, 12:44:30 PM)
+[2019.12.12-22.44.30:130][ 98]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.12-22.44.30:131][ 98]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.12-22.44.30:147][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015404s)
+[2019.12.12-22.44.30:148][ 98]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.12-22.44.30:148][ 98]LogPlayLevel: PIE: World Init took: (0.001919s)
+[2019.12.12-22.44.30:148][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017726s)
+[2019.12.12-22.44.30:198][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2019.12.12-22.44.30:219][ 98]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-22.44.30:284][ 98]LogInit: FAudioDevice initialized.
+[2019.12.12-22.44.30:300][ 98]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.12-22.44.30:303][ 98]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.12-17.44.30
+[2019.12.12-22.44.30:304][ 98]LogWorld: Bringing up level for play took: 0.003089
+[2019.12.12-22.44.30:304][ 98]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.12.12-22.44.30:318][ 98]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.12.12-22.44.30:320][ 98]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.349
+[2019.12.12-22.44.30:320][ 98]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.12-22.44.33:857][446]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.12-22.44.33:858][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-22.44.33:858][446]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.12-22.44.33:858][446]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-22.44.33:870][446]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-22.44.33:871][446]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.12-22.44.33:927][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-22.44.33:981][446]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2019.12.12-22.44.34:006][447]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.12.12-22.44.51:879][885]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.12-22.45.38:573][582]BlueprintLog: New page: Compile NewBlueprint
+[2019.12.12-22.45.38:952][582]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2019.12.12-22.45.46:004][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-22.45.46:352][888]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2019.12.12-22.45.46:658][888]LogSavePackage: Moving '../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/ThirdPersonExampleMap690414944B9C5766483773AE4FBDEA3E.tmp' to '../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.12-22.45.46:901][888]LogSavePackage: Moving '../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/ThirdPersonExampleMap_BuiltData6F170A414185DC7A9C998CA862B2F734.tmp' to '../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.12.12-22.45.50:434][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-22.45.50:594][301]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.12.12-22.45.50:875][301]LogSavePackage: Moving '../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/ThirdPersonExampleMap220542A245523C40DB78F9BF65B78377.tmp' to '../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.12-22.45.51:039][301]LogSavePackage: Moving '../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/ThirdPersonExampleMap_BuiltData949B79AC4BCD1307C014119D1D0D9ADF.tmp' to '../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.12.12-22.45.52:304][440]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-22.45.52:317][440]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.12-22.45.52:317][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-22.45.52:317][440]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 12, 2019, 12:45:52 PM)
+[2019.12.12-22.45.52:318][440]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.12-22.45.52:340][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021011s)
+[2019.12.12-22.45.52:341][440]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.12-22.45.52:341][440]LogPlayLevel: PIE: World Init took: (0.001488s)
+[2019.12.12-22.45.52:341][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022673s)
+[2019.12.12-22.45.52:392][440]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2019.12.12-22.45.52:412][440]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-22.45.52:475][440]LogInit: FAudioDevice initialized.
+[2019.12.12-22.45.52:483][440]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.12-22.45.52:486][440]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.12-17.45.52
+[2019.12.12-22.45.52:487][440]LogWorld: Bringing up level for play took: 0.002586
+[2019.12.12-22.45.52:487][440]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.12.12-22.45.52:491][440]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.519
+[2019.12.12-22.45.52:491][440]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.12-22.45.55:016][728]LogBlueprintUserMessages: [NewBlueprint_2] 100
+[2019.12.12-22.45.55:801][820]LogBlueprintUserMessages: [NewBlueprint2] 100
+[2019.12.12-22.46.02:303][582]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 75
+[2019.12.12-22.46.02:303][582]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] 75
+[2019.12.12-22.46.07:905][235]LogBlueprintUserMessages: [NewBlueprint_2] 100
+[2019.12.12-22.46.12:309][747]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 75
+[2019.12.12-22.46.12:309][747]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] 50
+[2019.12.12-22.46.22:313][915]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 75
+[2019.12.12-22.46.22:313][915]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] 25
+[2019.12.12-22.46.26:014][341]LogBlueprintUserMessages: [NewBlueprint_2] 100
+[2019.12.12-22.46.27:012][456]LogBlueprintUserMessages: [NewBlueprint2] 100
+[2019.12.12-22.46.31:221][941]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.12-22.46.31:221][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-22.46.31:221][941]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.12-22.46.31:221][941]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-22.46.31:240][941]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-22.46.31:240][941]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.12-22.46.31:297][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-22.46.31:304][941]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2019.12.12-22.46.31:329][942]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.12.12-22.46.37:504][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-22.47.32:492][501]BlueprintLog: New page: Compile NewBlueprint
+[2019.12.12-22.47.32:784][501]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2019.12.12-22.47.35:581][760]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-22.47.35:595][760]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.12-22.47.35:595][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-22.47.35:595][760]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 12, 2019, 12:47:35 PM)
+[2019.12.12-22.47.35:596][760]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.12-22.47.35:611][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015115s)
+[2019.12.12-22.47.35:612][760]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.12-22.47.35:612][760]LogPlayLevel: PIE: World Init took: (0.001275s)
+[2019.12.12-22.47.35:612][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016595s)
+[2019.12.12-22.47.35:658][760]LogUObjectHash: Compacting FUObjectHashTables data took   6.55ms
+[2019.12.12-22.47.35:678][760]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-22.47.35:744][760]LogInit: FAudioDevice initialized.
+[2019.12.12-22.47.35:751][760]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.12-22.47.35:754][760]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.12-17.47.35
+[2019.12.12-22.47.35:755][760]LogWorld: Bringing up level for play took: 0.002777
+[2019.12.12-22.47.35:755][760]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.12.12-22.47.35:758][760]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.213
+[2019.12.12-22.47.35:758][760]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.12-22.47.38:570][ 83]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={85413E35-4313-8EC3-D6B5-01AE744AA27B}
+[2019.12.12-22.47.38:747][103]LogBlueprintUserMessages: [NewBlueprint2] 100
+[2019.12.12-22.47.39:857][232]LogBlueprintUserMessages: [NewBlueprint_2] 100
+[2019.12.12-22.47.41:452][417]LogBlueprintUserMessages: [NewBlueprint2] 100
+[2019.12.12-22.47.42:204][504]LogBlueprintUserMessages: [NewBlueprint2] 100
+[2019.12.12-22.47.45:042][832]LogBlueprintUserMessages: [NewBlueprint_2] 100
+[2019.12.12-22.47.45:575][891]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 75
+[2019.12.12-22.47.45:575][891]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] 75
+[2019.12.12-22.47.46:291][976]LogBlueprintUserMessages: [NewBlueprint2] 100
+[2019.12.12-22.47.55:581][ 65]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 75
+[2019.12.12-22.47.55:581][ 65]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] 50
+[2019.12.12-22.48.05:583][244]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 50
+[2019.12.12-22.48.05:583][244]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] 25
+[2019.12.12-22.48.15:583][419]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 25
+[2019.12.12-22.48.15:583][419]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] 0
+[2019.12.12-22.48.15:592][420]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:600][421]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:610][422]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:619][423]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:630][424]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:639][425]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:648][426]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:659][427]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:669][428]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:676][429]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:685][430]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:694][431]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:701][432]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:710][433]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:721][434]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:729][435]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:737][436]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:747][437]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:756][438]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:764][439]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:772][440]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:780][441]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:789][442]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:797][443]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:806][444]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:815][445]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:823][446]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:831][447]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:840][448]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:848][449]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:856][450]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:865][451]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:873][452]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:884][453]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:893][454]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:901][455]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:911][456]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:918][457]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:928][458]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:936][459]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:945][460]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:953][461]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:962][462]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:970][463]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:979][464]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:990][465]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.15:998][466]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:007][467]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:015][468]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:023][469]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:031][470]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:041][471]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:049][472]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:059][473]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:067][474]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:075][475]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:084][476]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:093][477]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:102][478]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:111][479]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:119][480]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:127][481]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:136][482]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:145][483]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:155][484]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:163][485]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:172][486]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:180][487]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:187][488]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:197][489]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:205][490]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:213][491]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:222][492]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:230][493]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:238][494]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:246][495]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:255][496]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:263][497]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:272][498]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:280][499]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:288][500]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:297][501]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:305][502]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:314][503]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:322][504]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:330][505]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:339][506]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:347][507]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:355][508]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:364][509]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:373][510]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:381][511]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:389][512]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:398][513]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:407][514]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:416][515]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:425][516]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:435][517]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:442][518]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:450][519]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:459][520]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:468][521]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:476][522]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:485][523]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:494][524]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:502][525]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:512][526]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:521][527]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:530][528]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:538][529]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:546][530]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:555][531]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:564][532]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:572][533]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:581][534]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:589][535]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:596][536]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:606][537]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:614][538]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:623][539]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:631][540]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:640][541]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:648][542]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:656][543]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:665][544]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:672][545]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:682][546]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:690][547]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:700][548]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:710][549]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:720][550]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:728][551]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:737][552]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:746][553]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:755][554]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:765][555]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:774][556]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:783][557]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:792][558]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:801][559]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:810][560]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:819][561]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:829][562]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:837][563]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:846][564]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:855][565]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:862][566]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:872][567]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:880][568]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:889][569]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:898][570]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:906][571]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:914][572]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:923][573]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:931][574]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:940][575]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:950][576]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:958][577]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:967][578]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:975][579]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:983][580]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.16:991][581]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:000][582]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:008][583]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:018][584]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:025][585]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:034][586]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:042][587]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:052][588]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:062][589]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:071][590]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:079][591]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:089][592]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:097][593]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:106][594]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:114][595]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:122][596]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:132][597]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:141][598]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:150][599]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:159][600]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:168][601]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:175][602]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:184][603]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:192][604]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:201][605]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:209][606]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:217][607]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:227][608]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:235][609]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:245][610]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:253][611]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:262][612]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:270][613]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:279][614]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:287][615]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:296][616]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:306][617]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:317][618]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:324][619]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:334][620]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:345][621]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:355][622]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:363][623]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:371][624]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:381][625]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:391][626]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:400][627]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:409][628]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:418][629]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:427][630]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:435][631]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:443][632]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:451][633]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:460][634]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:468][635]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:477][636]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:487][637]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:495][638]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:503][639]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:512][640]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:520][641]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:530][642]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:538][643]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:545][644]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:555][645]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:563][646]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:572][647]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:580][648]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:588][649]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:597][650]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:605][651]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:613][652]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:623][653]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:632][654]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:642][655]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:651][656]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:661][657]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:670][658]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:679][659]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:689][660]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:698][661]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:707][662]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:717][663]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:725][664]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:734][665]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:743][666]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:751][667]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:759][668]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:767][669]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:776][670]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:785][671]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:793][672]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:802][673]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:812][674]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:822][675]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:831][676]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:840][677]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:849][678]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:860][679]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:868][680]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:877][681]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:888][682]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:897][683]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:906][684]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:915][685]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:925][686]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:934][687]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:942][688]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:952][689]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:960][690]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:969][691]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:979][692]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:986][693]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.17:995][694]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:003][695]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:012][696]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:021][697]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:030][698]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:038][699]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:046][700]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:055][701]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:064][702]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:072][703]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:081][704]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:089][705]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:098][706]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:106][707]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:114][708]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:124][709]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:133][710]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:143][711]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:153][712]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:161][713]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:171][714]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:179][715]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:189][716]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:197][717]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:205][718]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:214][719]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:224][720]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:237][721]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:249][722]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:266][723]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:275][724]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:284][725]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:292][726]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:301][727]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:310][728]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:317][729]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:326][730]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:335][731]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:343][732]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:352][733]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:360][734]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:368][735]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:377][736]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:385][737]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:394][738]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:401][739]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:410][740]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:419][741]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:428][742]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:436][743]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:444][744]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:453][745]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:461][746]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:469][747]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:477][748]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:488][749]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:497][750]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:504][751]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:513][752]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:522][753]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:530][754]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:538][755]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:546][756]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:556][757]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:563][758]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:572][759]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:580][760]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:588][761]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:597][762]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:605][763]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:614][764]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:624][765]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:632][766]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:641][767]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:650][768]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:658][769]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:668][770]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:674][771]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:682][772]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:691][773]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:699][774]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:708][775]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:717][776]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:726][777]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:735][778]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:743][779]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:752][780]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:761][781]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:770][782]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:778][783]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:786][784]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:795][785]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:803][786]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:816][787]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:824][788]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:834][789]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:845][790]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:854][791]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:863][792]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:871][793]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:880][794]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:889][795]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:898][796]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:907][797]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:915][798]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:922][799]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:931][800]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:940][801]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:949][802]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:960][803]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:969][804]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:978][805]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:988][806]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.18:998][807]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:008][808]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:019][809]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:028][810]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:037][811]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:047][812]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:056][813]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:064][814]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:072][815]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:081][816]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:089][817]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:098][818]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:106][819]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:115][820]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:123][821]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:132][822]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:140][823]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:149][824]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:157][825]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:165][826]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:174][827]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:183][828]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:192][829]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:200][830]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:208][831]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:216][832]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:225][833]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:233][834]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:241][835]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:251][836]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:261][837]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:270][838]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:277][839]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:287][840]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:296][841]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:305][842]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:313][843]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:322][844]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:330][845]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:339][846]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:347][847]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:356][848]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:364][849]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:373][850]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:382][851]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:390][852]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:399][853]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:407][854]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:417][855]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:425][856]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:433][857]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:442][858]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:452][859]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:460][860]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:469][861]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:477][862]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:486][863]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:495][864]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:504][865]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:512][866]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:522][867]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:530][868]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:539][869]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:548][870]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:556][871]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:564][872]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:573][873]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:583][874]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:591][875]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:600][876]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:609][877]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:617][878]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:626][879]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:634][880]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:641][881]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:651][882]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:659][883]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:668][884]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:675][885]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:685][886]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:693][887]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:701][888]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:710][889]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:718][890]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:727][891]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:735][892]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:743][893]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:752][894]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:760][895]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:768][896]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:777][897]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:785][898]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:795][899]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:805][900]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:813][901]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:824][902]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:834][903]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:843][904]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:854][905]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:864][906]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:872][907]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:884][908]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:892][909]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:901][910]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:910][911]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:918][912]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:928][913]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:936][914]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:944][915]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:954][916]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:962][917]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:970][918]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:978][919]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:988][920]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.19:997][921]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:005][922]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:014][923]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:023][924]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:030][925]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:039][926]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:049][927]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:058][928]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:069][929]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:078][930]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:088][931]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:095][932]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:105][933]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:114][934]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:124][935]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:134][936]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:143][937]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:152][938]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:160][939]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:169][940]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:177][941]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:186][942]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:194][943]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:202][944]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:211][945]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:219][946]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:228][947]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:236][948]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:244][949]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:255][950]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:263][951]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:271][952]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:281][953]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:291][954]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:299][955]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:308][956]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:316][957]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:325][958]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:333][959]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:342][960]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:350][961]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:359][962]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:367][963]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:376][964]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:385][965]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:393][966]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:401][967]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:409][968]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:419][969]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:427][970]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:436][971]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:444][972]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:452][973]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:461][974]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:468][975]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:477][976]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:486][977]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:495][978]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:503][979]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:512][980]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:521][981]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:531][982]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:539][983]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:549][984]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:559][985]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:568][986]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:577][987]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:586][988]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:594][989]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:604][990]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:612][991]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:622][992]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:630][993]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:639][994]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:646][995]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:656][996]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:664][997]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:672][998]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:682][999]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:691][  0]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:699][  1]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:708][  2]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:716][  3]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:726][  4]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:734][  5]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:742][  6]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:752][  7]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:760][  8]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:768][  9]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:777][ 10]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:785][ 11]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:794][ 12]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:804][ 13]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:813][ 14]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:822][ 15]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:830][ 16]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:839][ 17]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:848][ 18]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:856][ 19]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:864][ 20]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:872][ 21]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:882][ 22]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:890][ 23]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:899][ 24]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:907][ 25]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:916][ 26]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:924][ 27]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:933][ 28]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:941][ 29]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:950][ 30]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:959][ 31]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:967][ 32]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:975][ 33]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:983][ 34]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.20:992][ 35]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:002][ 36]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:010][ 37]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:018][ 38]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:027][ 39]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:037][ 40]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:045][ 41]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:054][ 42]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:064][ 43]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:073][ 44]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:080][ 45]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:089][ 46]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:098][ 47]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:106][ 48]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:114][ 49]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:122][ 50]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:131][ 51]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:139][ 52]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:148][ 53]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:156][ 54]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:164][ 55]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:173][ 56]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:183][ 57]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:192][ 58]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:201][ 59]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:210][ 60]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:220][ 61]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:229][ 62]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:238][ 63]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:247][ 64]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:258][ 65]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:268][ 66]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:279][ 67]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:288][ 68]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:298][ 69]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:306][ 70]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:315][ 71]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:323][ 72]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:331][ 73]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:341][ 74]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:348][ 75]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:357][ 76]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:367][ 77]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:376][ 78]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:384][ 79]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:392][ 80]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:401][ 81]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:408][ 82]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:418][ 83]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:426][ 84]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:434][ 85]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:442][ 86]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:451][ 87]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:459][ 88]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:467][ 89]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:476][ 90]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:485][ 91]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:493][ 92]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:502][ 93]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:510][ 94]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:518][ 95]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:527][ 96]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:535][ 97]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:545][ 98]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:553][ 99]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:561][100]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:569][101]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:577][102]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:586][103]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:595][104]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:604][105]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:613][106]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:622][107]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:630][108]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:638][109]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:647][110]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:655][111]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:664][112]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:672][113]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:680][114]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:690][115]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:699][116]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:707][117]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:715][118]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:724][119]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:733][120]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:741][121]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:752][122]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:760][123]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:768][124]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:777][125]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:786][126]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:795][127]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:804][128]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:812][129]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:822][130]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:830][131]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:839][132]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:849][133]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:858][134]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:868][135]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:877][136]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:885][137]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:893][138]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:902][139]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:910][140]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:919][141]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:928][142]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:937][143]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:946][144]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:956][145]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:964][146]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:974][147]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:984][148]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.21:992][149]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:002][150]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:011][151]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:021][152]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:031][153]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:040][154]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:048][155]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:056][156]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:066][157]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:074][158]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:084][159]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:093][160]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:102][161]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:111][162]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:119][163]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:128][164]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:136][165]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:144][166]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:152][167]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:161][168]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:170][169]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:177][170]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:186][171]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:196][172]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:205][173]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:214][174]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:222][175]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:232][176]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:240][177]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:250][178]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:259][179]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:269][180]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:278][181]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:287][182]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:296][183]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:305][184]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:313][185]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:324][186]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:333][187]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:341][188]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:353][189]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:360][190]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:368][191]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:377][192]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:387][193]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:396][194]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:404][195]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:413][196]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:423][197]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:431][198]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:440][199]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:448][200]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:457][201]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:465][202]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:474][203]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:482][204]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:491][205]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:500][206]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:509][207]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:517][208]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:526][209]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:534][210]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:542][211]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:550][212]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:559][213]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:567][214]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:575][215]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:584][216]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:592][217]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:601][218]LogBlueprintUserMessages: [ThirdPersonCharacter2_2] You Died
+[2019.12.12-22.48.22:603][218]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.12-22.48.22:604][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-22.48.22:604][218]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.12-22.48.22:604][218]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-22.48.22:622][218]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-22.48.22:622][218]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.12-22.48.22:678][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-22.48.22:685][218]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2019.12.12-22.48.22:708][219]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.12.12-22.48.24:521][309]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.12-22.48.29:630][657]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.12.12-22.48.41:401][409]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.12-22.48.41:745][409]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2019.12.12-22.53.16:337][854]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.12-22.53.27:303][666]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/SurvivalHudWidget.SurvivalHudWidget
+[2019.12.12-22.54.01:225][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   9.72ms
+[2019.12.12-22.54.01:245][ 77]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/MinorFood.MinorFood:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2019.12.12-22.54.01:245][ 77]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/MinorFood.MinorFood_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2019.12.12-22.54.01:245][ 77]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/MinorFood.MinorFood:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2019.12.12-22.54.01:245][ 77]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/MinorFood.MinorFood:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2019.12.12-22.54.01:245][ 77]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/MinorFood.SKEL_MinorFood_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2019.12.12-22.54.01:342][ 77]LogSavePackage: Moving '../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/MinorFoodC5B7F8FE4EA24F4AAE64958F7E6B7247.tmp' to '../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Content/ThirdPersonBP/Blueprints/MinorFood.uasset'
+[2019.12.12-22.54.01:369][ 77]LogSavePackage: Moving '../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/NewBlueprint1C715C6F44B5A95FD50E2AA20E5EFA73.tmp' to '../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Content/ThirdPersonBP/Blueprints/NewBlueprint.uasset'
+[2019.12.12-22.54.04:421][269]LogUObjectHash: Compacting FUObjectHashTables data took   6.70ms
+[2019.12.12-22.54.05:661][269]LogSlate: Window 'Save Content' being destroyed
+[2019.12.12-22.54.05:717][269]LogSavePackage: Moving '../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/SurvivalHudWidget651190F84A2381F14F7296BF35DE47F0.tmp' to '../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Content/ThirdPersonBP/Blueprints/SurvivalHudWidget.uasset'
+[2019.12.12-22.54.05:826][269]LogSavePackage: Moving '../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/ThirdPersonCharacterCE51B5F34D34B7B238B97FBF389166F1.tmp' to '../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.12.12-22.54.05:891][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.12.12-22.54.06:245][269]LogSavePackage: Moving '../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/ThirdPersonExampleMapC132892D4E07107A1C9E82BFB2BE6A20.tmp' to '../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.12-22.54.06:274][269]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.440
+[2019.12.12-22.54.06:793][294]LogUObjectHash: Compacting FUObjectHashTables data took   8.11ms
+[2019.12.12-22.54.07:238][294]LogSavePackage: Moving '../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/ThirdPersonExampleMap4FB564724BCBC015F4C09988720B05A1.tmp' to '../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.12-22.54.07:438][294]LogSavePackage: Moving '../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/ThirdPersonExampleMap_BuiltDataE647D0AB450CF53A39668DB0E3D58B23.tmp' to '../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.12.12-22.54.31:586][813]BlueprintLog: New page: Compile MinorFood
+[2019.12.12-22.54.31:956][813]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2019.12.12-22.54.32:771][872]LogSavePackage: Moving '../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Saved/MinorFood309FA0D1424C216FAB96C386101622F9.tmp' to '../../../../../../Users/Raphael/Documents/Unreal Projects/ScaryTag/Content/ThirdPersonBP/Blueprints/MinorFood.uasset'
+[2019.12.12-22.54.34:879][ 73]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-22.54.34:903][ 73]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.12-22.54.34:903][ 73]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.12-22.54.34:912][ 73]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.12.12-22.54.34:916][ 73]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Spawn node  Create Widget  must have a class specified.
+[2019.12.12-22.54.35:266][ 73]LogPlayLevel: [PlayLevel] Compiling SurvivalHudWidget before play...
+[2019.12.12-22.54.35:671][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   9.25ms
+[2019.12.12-22.54.35:671][ 73]LogPlayLevel: PlayLevel: Blueprint regeneration took 767 ms (2 blueprints)
+[2019.12.12-22.54.35:671][ 73]BlueprintLog: Warning: Blueprint failed to compile:  ThirdPersonCharacter
+[2019.12.12-22.54.35:671][ 73]LogCustomDialog: Dialog displayed:
+[2019.12.12-22.54.41:987][ 73]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2019.12.12-22.54.43:419][179]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-22.54.43:427][179]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-22.55.18:362][413]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-22.55.18:385][413]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.12-22.55.18:385][413]BlueprintLog: Warning: Blueprint failed to compile:  ThirdPersonCharacter
+[2019.12.12-22.55.18:385][413]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.12-22.55.18:386][413]LogPlayLevel: [PlayLevel] Compiling SurvivalHudWidget before play...
+[2019.12.12-22.55.18:803][413]LogUObjectHash: Compacting FUObjectHashTables data took   8.63ms
+[2019.12.12-22.55.18:803][413]LogPlayLevel: PlayLevel: Blueprint regeneration took 419 ms (1 blueprints)
+[2019.12.12-22.55.18:804][413]LogCustomDialog: Dialog displayed:
+[2019.12.12-22.55.21:705][413]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2019.12.12-22.56.05:238][289]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.12-22.56.05:247][289]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Spawn node  Create Widget  must have a class specified.
+[2019.12.12-22.56.05:632][289]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2019.12.12-22.56.33:835][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.12-22.56.36:196][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-22.57.40:205][521]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.12-22.57.44:295][775]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.12-22.57.44:671][775]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2019.12.12-22.57.46:090][857]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.12-22.57.46:466][857]LogUObjectHash: Compacting FUObjectHashTables data took   9.57ms
+[2019.12.12-22.57.48:945][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-22.57.49:022][ 39]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-22.57.49:044][ 39]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.12-22.57.49:044][ 39]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.12-22.57.49:056][ 39]LogPlayLevel: [PlayLevel] Compiling SurvivalHudWidget before play...
+[2019.12.12-22.57.49:447][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   6.91ms
+[2019.12.12-22.57.49:447][ 39]LogPlayLevel: PlayLevel: Blueprint regeneration took 403 ms (1 blueprints)
+[2019.12.12-22.57.49:447][ 39]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 12, 2019, 12:57:49 PM)
+[2019.12.12-22.57.49:448][ 39]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.12-22.57.49:463][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014511s)
+[2019.12.12-22.57.49:464][ 39]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.12-22.57.49:464][ 39]LogPlayLevel: PIE: World Init took: (0.001888s)
+[2019.12.12-22.57.49:465][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016575s)
+[2019.12.12-22.57.49:521][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2019.12.12-22.57.49:541][ 39]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-22.57.49:606][ 39]LogInit: FAudioDevice initialized.
+[2019.12.12-22.57.49:612][ 39]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.12-22.57.49:615][ 39]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.12-17.57.49
+[2019.12.12-22.57.49:615][ 39]LogWorld: Bringing up level for play took: 0.002388
+[2019.12.12-22.57.49:616][ 39]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.12.12-22.57.49:621][ 39]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.35
+[2019.12.12-22.57.49:621][ 39]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.12-22.57.51:475][247]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.12-22.57.51:475][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-22.57.51:475][247]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.12-22.57.51:476][247]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-22.57.51:493][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-22.57.51:493][247]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.12-22.57.51:558][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-22.57.51:566][247]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2019.12.12-22.57.51:596][248]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.12.12-22.57.56:329][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-22.58.53:773][ 16]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-22.58.53:804][ 16]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-22.58.56:490][187]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/SurvivalHudWidget.SurvivalHudWidget
+[2019.12.12-22.59.02:255][618]BlueprintLog: New page: Compile SurvivalHudWidget
+[2019.12.12-22.59.02:645][618]LogUObjectHash: Compacting FUObjectHashTables data took   7.10ms
+[2019.12.12-22.59.03:656][699]BlueprintLog: New page: Compile SurvivalHudWidget
+[2019.12.12-22.59.04:016][699]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2019.12.12-22.59.05:946][885]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-22.59.05:969][885]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.12-22.59.05:969][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-22.59.05:969][885]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 12, 2019, 12:59:05 PM)
+[2019.12.12-22.59.05:970][885]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.12-22.59.05:986][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015818s)
+[2019.12.12-22.59.05:987][885]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.12-22.59.05:987][885]LogPlayLevel: PIE: World Init took: (0.001397s)
+[2019.12.12-22.59.05:987][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017459s)
+[2019.12.12-22.59.06:051][885]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2019.12.12-22.59.06:075][885]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-22.59.06:148][885]LogInit: FAudioDevice initialized.
+[2019.12.12-22.59.06:158][885]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.12-22.59.06:161][885]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.12-17.59.06
+[2019.12.12-22.59.06:161][885]LogWorld: Bringing up level for play took: 0.002398
+[2019.12.12-22.59.06:162][885]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.12.12-22.59.06:166][885]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.195
+[2019.12.12-22.59.06:167][885]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.12-22.59.10:111][319]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.12-22.59.10:112][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-22.59.10:112][319]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.12-22.59.10:112][319]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-22.59.10:129][319]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-22.59.10:129][319]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.12-22.59.10:198][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-22.59.10:205][319]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2019.12.12-22.59.10:229][320]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.12.12-22.59.12:850][524]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.12-22.59.50:066][383]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-22.59.50:085][383]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-22.59.53:010][551]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2019.12.12-22.59.54:300][551]LogSlate: Window 'Delete Assets' being destroyed
